@@ -1,0 +1,7 @@
+.tick {
+    visibility: hidden;
+}
+
+.visible {
+    visibility: visible;
+}

@@ -1,0 +1,26 @@
+.discord {
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 30px;
+}
+
+.discord--logo-container {
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+.discord--logo-pic {
+    width: 200px;
+}
+
+.discord--heading {
+    font-size: 1.2rem;
+    color: #555555;
+    margin-bottom: 10px;
+}
+
+.discord--text {
+    font-size: 1rem;
+    color: #838383;
+    
+}
